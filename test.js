@@ -14,3 +14,14 @@ test('it returns undefined for plain text', (t, input) => {
     ['plain text here'],
     ['woop dee doo']
 ]);
+
+test('it returns undefined for one or two dashes', (t, input) => {
+
+    let output = strong(input);
+
+    t.assert.equal(undefined, output);
+
+}, [
+    ['-'],
+    ['--']
+]);
