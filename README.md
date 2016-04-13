@@ -8,14 +8,14 @@ Horizontal rule matching rule for [quickmark](https://github.com/jameskmonger/qu
 const hr = require('quickmark-rule-hr');
 
 hr('---');
-
 // {
 //     original: '---',
 //     parsed: ''
 // }
 
-hr('------');
 
+
+hr('------');
 // {
 //     original: '------_',
 //     parsed: ''
