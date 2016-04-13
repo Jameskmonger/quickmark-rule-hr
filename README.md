@@ -20,6 +20,11 @@ hr('------');
 //     original: '------_',
 //     parsed: ''
 // }
+
+
+
+hr('definitely not a horizontal rule');
+// undefined
 ```
 
 ## License
