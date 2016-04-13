@@ -4,7 +4,7 @@
   "description": "Horizontal rule rule for Quickmark",
   "main": "index.js",
   "scripts": {
-    "test": "modunit test.js"  
+    "test": "modunit test.js"
   },
   "repository": {
     "type": "git",
@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/Jameskmonger/quickmark-rule-hr#readme",
   "devDependencies": {
-    "modunit": "^0.3.0"
+    "modunit": "^0.3.0",
+    "tap-heart": "^0.2.1"
   }
 }
