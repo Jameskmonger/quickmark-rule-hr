@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/Jameskmonger/quickmark-rule-hr#readme",
   "devDependencies": {
+    "eslint": "^2.7.0",
     "modunit": "^0.3.0",
     "tap-heart": "^0.2.1"
   },
