@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Horizontal rule rule for Quickmark",
   "main": "index.js",
+  "scripts": {
+    "test": "modunit test.js"  
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Jameskmonger/quickmark-rule-hr.git"
