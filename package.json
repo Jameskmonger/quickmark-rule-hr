@@ -1,0 +1,23 @@
+{
+  "name": "quickmark-rule-hr",
+  "version": "1.0.0",
+  "description": "Horizontal rule rule for Quickmark",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jameskmonger/quickmark-rule-hr.git"
+  },
+  "keywords": [
+    "quickmark",
+    "hr",
+    "horizontal rule",
+    "regexp",
+    "markdown"
+  ],
+  "author": "James Monger <jameskmonger@hotmail.co.uk> (https://jamesmonger.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jameskmonger/quickmark-rule-hr/issues"
+  },
+  "homepage": "https://github.com/Jameskmonger/quickmark-rule-hr#readme"
+}
