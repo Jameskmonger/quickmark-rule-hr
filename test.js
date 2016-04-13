@@ -25,3 +25,15 @@ test('it returns undefined for one or two dashes', (t, input) => {
     ['-'],
     ['--']
 ]);
+
+test('it returns an object with the correct \'original\' for three or more dashes', (t, input) => {
+
+    let output = hr(input);
+
+    t.assert.equal(input, output.original);
+
+}, [
+    ['---'],
+    ['------'],
+    ['---------']
+]);
