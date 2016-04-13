@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Jameskmonger/quickmark-rule-hr/issues"
   },
-  "homepage": "https://github.com/Jameskmonger/quickmark-rule-hr#readme"
+  "homepage": "https://github.com/Jameskmonger/quickmark-rule-hr#readme",
+  "devDependencies": {
+    "modunit": "^0.3.0"
+  }
 }
