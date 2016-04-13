@@ -17,7 +17,7 @@ test('it returns undefined for plain text', (t, input) => {
 
 test('it returns undefined for one or two dashes', (t, input) => {
 
-    let output = strong(input);
+    let output = hr(input);
 
     t.assert.equal(undefined, output);
 
