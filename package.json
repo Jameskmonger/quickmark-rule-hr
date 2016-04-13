@@ -1,6 +1,6 @@
 {
   "name": "quickmark-rule-hr",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Horizontal rule rule for Quickmark",
   "main": "index.js",
   "files": [
